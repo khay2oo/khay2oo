@@ -1,5 +1,9 @@
 ## Hi there 👋
 yah I'm dume sooo yah wait for me ...;)
+- 🔭 I’m currently working on ... my python learning journey
+- 🌱 I’m currently learning ... python
+- 🤔 I’m looking for help with ... useing gethub and learning more about python
+- 📫 How to reach me: ... my instagram @khay2oo or my x @khay2oo
 <!--
 **khay2oo/khay2oo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
